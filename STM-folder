@@ -1,0 +1,2 @@
+mkdir src data tests
+touch src/main.cpp src/graph.h src/graph.cpp data/chandigarh_map.txt tests/test_cases.cpp
